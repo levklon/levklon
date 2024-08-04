@@ -2,6 +2,10 @@
 ## About Me
 I am an experienced Full Stack developer with over 3 years of experience in building web applications and APIs. I specialize in developing high-performance and scalable applications using modern technologies. I am proficient in both frontend and backend development, with deep knowledge in setting up CI/CD processes and cloud services. My projects span a wide range of industries, including e-commerce, fintech, and media. I am ready to bring the most complex projects to life, ensuring their quality and reliability.
 
+## Social Media:
+<p align="left">
+<a href="https://t.me/nemorosi" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" height="30" width="30" /></a>
+</p>
 
 
 ## Languages and Tools 
