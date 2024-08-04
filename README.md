@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Leo!
 
-<!--
-**levklon/levklon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an experienced developer with extensive knowledge in web application development, DevOps, and database management. I possess strong skills in both Frontend and Backend development.
 
-Here are some ideas to get you started:
+## My Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | JavaScript, TypeScript, React, Vue.js, HTML5, CSS3, SASS |
+| **Backend**  | Node.js, Express.js, Python (Django, Flask), PHP (Laravel), Ruby on Rails |
+| **Databases**| MySQL, PostgreSQL, MongoDB |
+| **DevOps**   | Docker, Kubernetes, Jenkins, GitHub Actions |
+| **Tools & Technologies** | Git, Webpack, Jest, Mocha |
+
+## Contacts
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [Lev Klon](https://github.com/levklon)
