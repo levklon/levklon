@@ -2,14 +2,14 @@
 ## About Me
 I am an experienced Full Stack developer with over 3 years of experience in building web applications and APIs. I specialize in developing high-performance and scalable applications using modern technologies. I am proficient in both frontend and backend development, with deep knowledge in setting up CI/CD processes and cloud services. My projects span a wide range of industries, including e-commerce, fintech, and media. I am ready to bring the most complex projects to life, ensuring their quality and reliability.
 
-### Social Media: 📡    
+### Social Media 📡    
 You can reach out to me on Telegram:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemorosi)
 
 
 
-## Languages and Tools 
+## Languages and Tools 🛠️
 <div>
 
 ### Languages:
