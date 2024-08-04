@@ -5,7 +5,7 @@ I am an experienced Full Stack developer with over 3 years of experience in buil
 ## Social Media:
 You can reach out to me on Telegram: 
 <a href="https://t.me/nemorosi" target="blank">
-<img align="center" src="https://img.icons8.com/ios-filled/50/0088cc/telegram-app.png" alt="Telegram" height="30" width="30" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="60" />
 </a>
 
 
