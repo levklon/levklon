@@ -1,3 +1,9 @@
+
+## About Me
+I am an experienced Full Stack developer with over 5 years of experience in building web applications and APIs. I specialize in developing high-performance and scalable applications using modern technologies. I am proficient in both frontend and backend development, with deep knowledge in setting up CI/CD processes and cloud services. My projects span a wide range of industries, including e-commerce, fintech, and media. I am ready to bring the most complex projects to life, ensuring their quality and reliability.
+
+
+
 ## Languages and Tools 
 <div>
 
