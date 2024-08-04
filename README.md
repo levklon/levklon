@@ -9,7 +9,7 @@ You can reach out to me on Telegram:
 
 
 
-## 🛠️ Languages and Tools: 🛠️
+## 🛠️ Languages and Tools 🛠️
 <div>
 
 ### Languages:
