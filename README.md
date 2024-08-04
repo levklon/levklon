@@ -33,8 +33,4 @@
 
 </div>
 
-## Contacts
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Lev Klon](https://github.com/levklon)
 
